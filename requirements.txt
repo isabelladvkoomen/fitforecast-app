@@ -1,0 +1,21 @@
+asgiref==3.9.1
+<<<<<<< HEAD
+certifi==2025.7.14
+=======
+certifi==2025.7.9
+>>>>>>> 6702d1a922dec4ba119a8e1ba6e118afac6666c4
+charset-normalizer==3.4.2
+Django==5.2.4
+idna==3.10
+iniconfig==2.1.0
+packaging==25.0
+pluggy==1.6.0
+Pygments==2.19.2
+pytest==8.4.1
+<<<<<<< HEAD
+python-dotenv==1.1.1
+=======
+>>>>>>> 6702d1a922dec4ba119a8e1ba6e118afac6666c4
+requests==2.32.4
+sqlparse==0.5.3
+urllib3==2.5.0
